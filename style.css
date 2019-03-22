@@ -359,7 +359,7 @@ label{
   animation:fadein 2s;
 }
 .w3-animate {
-  animation:fadein 10ss;
+  animation:fadein 10s;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
