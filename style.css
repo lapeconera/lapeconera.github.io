@@ -345,7 +345,7 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
   background-color: white;
-  padding: 20px 20PX 80PX 20PX;
+  padding: 20px 20PX 10px 20PX;
 }
 label{    
   font-size: 12px;
