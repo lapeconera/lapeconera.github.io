@@ -1,8 +1,9 @@
 # lapeconera.github.io
 # myporfolio2019
 html/css first work
+https://github.com/lapeconera/lapeconera.github.io
 
-https://lapeconera.github.io.
+https://lapeconera.github.io
 
 
 The goal for assignment was to build the website that represent my own personality and my career in proper way.
