@@ -1,9 +1,9 @@
 # lapeconera.github.io
-
 # myporfolio2019
 html/css first work
 
-https://trello.com/b/1aZ4EKjP/resume-website
+https://lapeconera.github.io.
+
 
 The goal for assignment was to build the website that represent my own personality and my career in proper way.
 I focused to make it clean and simple with functional features and communicative contents.
