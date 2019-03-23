@@ -356,7 +356,7 @@ label{
 /* * ----------------------- */
 /* * ----------------------- */
 .w2-animate{
-  animation:fadein 2s;
+  animation:fadein 0.6s;
 }
 .w3-animate {
   animation:fadein 10s;
@@ -384,7 +384,6 @@ label{
   align-items: center;
   display: inline-block; 
   width: 3vw;
- 
 
 }
 #LI-profile-badge{
@@ -393,9 +392,7 @@ label{
 }
 #GI-profile-badge{
   background-image: url(images/social/GitHub.png);
-  
 }
-
 
 hr.style18 { 
   height: 30px; 
@@ -421,7 +418,6 @@ hr.style12 {
     border: 0;
 }
 
-
 @keyframes fadein {
   from { opacity: 0; }
   to   { opacity: 1; }
@@ -439,9 +435,7 @@ hr.style12 {
     background-size: contain;
   }
   #companylink{
-
     font-size: 14px;
-    
   }
   .w3-animate {
     animation:fadein 4.5s;
@@ -464,24 +458,5 @@ hr.style12 {
   
   
 
-
-
-    /* .overlay a {font-size: 20px}
-    .overlay .closebtn {
-    font-size: 40px;
-    top: 15px;
-    right: 35px; */
     
-  
-  
-  /* @media screen and (max-width:600px)
-{
-#one
-#two,#three { 
-justify-content:space-around;
-display: inline-block;
-width: 50px;
-height: 50px;
-background-color:grey;
-align-items: center;}
-} */
+ 
