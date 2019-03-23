@@ -1,9 +1,9 @@
 # lapeconera.github.io
-# myporfolio2019
 
-https://github.com/lapeconera/lapeconera.github.io
 
-https://lapeconera.github.io
+Repository: https://github.com/lapeconera/lapeconera.github.io
+
+Livewebsite: https://lapeconera.github.io
 
 
 The goal for assignment was to build the website that represent my own personality and my career in proper way.
