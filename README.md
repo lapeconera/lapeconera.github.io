@@ -6,10 +6,7 @@ Repository: https://github.com/lapeconera/lapeconera.github.io
 Livewebsite: https://lapeconera.github.io
 
 
-The goal for assignment was to build the website that represent my own personality and my career in proper way.
-I focused to make it clean and simple with functional features and communicative contents.
-
-The process of this assignment is as below:
+Work process:
 1.layout
 2.design
 3.contents
